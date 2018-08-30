@@ -1,0 +1,35 @@
+body{
+    background-color: #c5dfc5;
+}
+
+.menu{
+    border-top: solid black 0.06em;
+    border-bottom: solid black 0.06em;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+.opc{
+    padding-right: 9em;
+}
+
+.inopc{
+    padding-left: 8em
+}
+
+.fiopc{
+    padding-right: 8em;
+}
+
+.fas.fa-cloud{
+    background-color: #c5dfc5;
+    width: 3em;
+}
+
+.menu2{
+    padding: 1em;
+    margin: 0 auto;
+}
+ .opc1{
+     padding-right: 15em;
+ }
